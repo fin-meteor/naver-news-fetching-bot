@@ -49,11 +49,11 @@ function globalVariables() {
     DEBUG            : false,
 
     // 네이버 검색 오픈 API Client ID 및 Secret 값
-    clientId         : "[네이버 오픈 API용 Client ID]",
-    clientSecret     : "[네이버 오픈 API용 Client Secret]",
+    clientId         : "[6RV9jdrPegp6zPwFr1n6]",
+    clientSecret     : "[7qTHaYcf7d]",
 
     // 네이버 뉴스 검색어
-    keyword          : "[검색키워드]",
+    keyword          : "[임금체불]",
 
     // Slack 전송 설정
     allowBotSlack    : false,
